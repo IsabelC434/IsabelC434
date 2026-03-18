@@ -8,7 +8,7 @@
   - Enabling and Disabling Accounts
 
 
-- ### [DNS Configurartion & Name Resolution Analysis in a Windows Server](#)
+- ### [DNS Configurartion & Name Resolution Analysis in a Windows Server](https://github.com/IsabelC434/dns-configuration-name-resolution-analysis)
   - Configure and Manage DNS Records (A Records, CNAME Records)
   - Analyze Client Side DNS Resolution Behavior
   - Observe DNS Cache Functionality & Propagation Effects
