@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isabel, an <a href="https://www.linkedin.com/in/isabel-castellanos007">IT Professional
+<h1>Hi, I'm Isabel, an <a href="https://www.linkedin.com/in/isabel-castellanos007">IT Professional:</h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
