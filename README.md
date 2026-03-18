@@ -15,11 +15,11 @@
   - Understand How Local DNS Servers Resolve External Domain Queries
   - Strengthen Foundational Networking & Troubleshooting Skills
 - <b>IT Support Troubleshooting & Incident Resolution Simulation</b>
-  -Apply Structured Troubleshooting Methodologies to Resolve IT Incidents
-  -Diagnose Authentication, Account Access, & Network Related Issues
-  -Identify Root Causes Using System Tools & Observation
-  -Restore Functionality While Minimizing User Impact
-  -Develop Clear, Problem Solving Workflows
+  - Apply Structured Troubleshooting Methodologies to Resolve IT Incidents
+  - Diagnose Authentication, Account Access, & Network Related Issues
+  - Identify Root Causes Using System Tools & Observation
+  - Restore Functionality While Minimizing User Impact
+  - Develop Clear, Problem Solving Workflows
 
 <h2>🤳Connect with me:</h2>
 
