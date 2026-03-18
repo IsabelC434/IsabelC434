@@ -1,6 +1,6 @@
-<h1>Hi, I'm Isabel, an <a href="https://www.linkedin.com/in/isabel-castellanos007">IT Professional:</h2>
+<h1>Hi! I'm Isabel, an <a href="https://www.linkedin.com/in/isabel-castellanos007"> Aspiring IT Professional:</h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> 👨‍💻 Information Technology Projects:</h2>
 
 - ### [Active Directory Account Administration & Security Policy Enforcement](#)
   - Simulating Failed Login Attempts
