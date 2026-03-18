@@ -14,7 +14,7 @@
   - Observe DNS Cache Functionality & Propagation Effects
  
  
-- ### [IT Support Troubleshooting & Incident Resolution Simulation](#)
+- ### [IT Support Troubleshooting & Incident Resolution Simulation](https://github.com/IsabelC434/it-support-troubleshooting)
   - Apply Structured Troubleshooting Methodologies to Resolve IT Incidents
   - Diagnose Authentication, Account Access, & Network Related Issues
   - Identify Root Causes Using System Tools & Observation
