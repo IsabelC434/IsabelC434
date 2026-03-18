@@ -7,19 +7,19 @@
   - Unlocking and Resetting Account
   - Enabling and Disabling Accounts
 
-👉 [View Project](LINK HERE)
+
 - ### [DNS Configurartion & Name Resolution Analysis in a Windows Server](#)
   - Configure and Manage DNS Records (A Records, CNAME Records)
   - Analyze Client Side DNS Resolution Behavior
   - Observe DNS Cache Functionality & Propagation Effects
  
- 👉 [View Project](LINK HERE)
+ 
 - ### [IT Support Troubleshooting & Incident Resolution Simulation](#)
   - Apply Structured Troubleshooting Methodologies to Resolve IT Incidents
   - Diagnose Authentication, Account Access, & Network Related Issues
   - Identify Root Causes Using System Tools & Observation
 
-👉 [View Project](LINK HERE)
+
 
 <h2>🤳Connect with me:</h2>
 
