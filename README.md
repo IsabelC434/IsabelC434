@@ -1,4 +1,4 @@
-# Hi! I'm Isabel, an Aspiring IT Professional
+# IT Portfolio | Active Directory • Networking • Troubleshooting
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
