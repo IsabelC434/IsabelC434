@@ -2,8 +2,6 @@
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
-## 📂 Featured Projects
-
 ### 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
 Hands-on implementation of user account management and security policies using Group Policy in a Windows Server environment.  
 👉 [View](https://github.com/IsabelC434/Active-Directory-Account-Management)
