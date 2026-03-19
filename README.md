@@ -2,24 +2,25 @@
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
-- ### [Active Directory Account Administration & Security Policy Enforcement](https://github.com/IsabelC434/Active-Directory-Account-Management)
-  - Simulating Failed Login Attempts
-  - Unlocking and Resetting Account
-  - Enabling and Disabling Accounts
+## 📂 Featured Projects
 
+### 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
+Hands-on implementation of user account management and security policies using Group Policy in a Windows Server environment.  
+👉 [View Project](LINK)
 
-- ### [DNS Configurartion & Name Resolution Analysis in a Windows Server](https://github.com/IsabelC434/dns-configuration-name-resolution-analysis)
-  - Configure and Manage DNS Records (A Records, CNAME Records)
-  - Analyze Client Side DNS Resolution Behavior
-  - Observe DNS Cache Functionality & Propagation Effects
- 
- 
-- ### [IT Support Troubleshooting & Incident Resolution Simulation](https://github.com/IsabelC434/it-support-troubleshooting)
-  - Apply Structured Troubleshooting Methodologies to Resolve IT Incidents
-  - Diagnose Authentication, Account Access, & Network Related Issues
-  - Identify Root Causes Using System Tools & Observation
+---
 
+### 🔹 DNS Configuration & Name Resolution Analysis in a Windows Server Environment  
+Configuration and analysis of DNS services, including record management and troubleshooting name resolution.  
+👉 [View Project]()
 
+---
+
+### 🔹 IT Support Troubleshooting & Incident Resolution Simulation  
+Simulated real-world IT support scenarios demonstrating structured troubleshooting and problem resolution.  
+👉 [View Project](LINK)
+
+---
 
 <h2>🤳Connect with me:</h2>
 
