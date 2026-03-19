@@ -6,13 +6,13 @@
 
 ### 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
 Hands-on implementation of user account management and security policies using Group Policy in a Windows Server environment.  
-👉 [View Project](https://github.com/IsabelC434/Active-Directory-Account-Management)
+👉 [View](https://github.com/IsabelC434/Active-Directory-Account-Management)
 
 ---
 
 ### 🔹 DNS Configuration & Name Resolution Analysis in a Windows Server Environment  
 Configuration and analysis of DNS services, including record management and troubleshooting name resolution.  
-👉 [View Project]()
+👉 [View](https://github.com/IsabelC434/dns-configuration-name-resolution-analysis)
 
 ---
 
