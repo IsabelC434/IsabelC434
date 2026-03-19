@@ -1,4 +1,4 @@
-<h1>Hi! I'm Isabel, an <a href="https://www.linkedin.com/in/isabel-castellanos007"> Aspiring IT Professional:</h2>
+# Hi! I'm Isabel, an Aspiring IT Professional
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
@@ -17,6 +17,30 @@ Configuration and analysis of DNS services, including record management and trou
 ### 🔹 IT Support Troubleshooting & Incident Resolution Simulation  
 Simulated real-world IT support scenarios demonstrating structured troubleshooting and problem resolution.  
 👉 [View](https://github.com/IsabelC434/it-support-troubleshooting)
+
+---
+## About Me
+
+I am an entry-level IT professional building hands-on experience in system administration, networking, and IT support.
+
+I have developed practical skills working with Active Directory, DNS, and troubleshooting real-world technical issues within a Windows Server environment.
+
+## 🎯 Current Focus
+
+- Strengthening networking knowledge (CompTIA Network+)
+- Building hands-on IT project experience
+- Preparing for entry-level IT and Help Desk roles
+
+---
+## 🔧 Technical Skills
+
+- Active Directory (User Management, Account Lockouts, Group Policy)
+- DNS (A Records, CNAME, Name Resolution)
+- Windows Server Administration
+- IT Troubleshooting & Incident Resolution
+- Command Line Tools (ping, nslookup, ipconfig)
+- Remote Desktop (RDP)
+- Microsoft Azure (Virtual Machine Hosting)
 
 ---
 
