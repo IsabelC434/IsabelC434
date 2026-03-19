@@ -6,7 +6,7 @@
 
 ### 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
 Hands-on implementation of user account management and security policies using Group Policy in a Windows Server environment.  
-👉 [View Project](LINK)
+👉 [View Project](https://github.com/IsabelC434/Active-Directory-Account-Management)
 
 ---
 
