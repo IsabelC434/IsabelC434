@@ -16,7 +16,7 @@ Configuration and analysis of DNS services, including record management and trou
 
 ### 🔹 IT Support Troubleshooting & Incident Resolution Simulation  
 Simulated real-world IT support scenarios demonstrating structured troubleshooting and problem resolution.  
-👉 [View Project](LINK)
+👉 [View](https://github.com/IsabelC434/it-support-troubleshooting)
 
 ---
 
