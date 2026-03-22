@@ -32,8 +32,8 @@ I have developed practical skills working with Active Directory, DNS, VPNs, and 
 ## 🎯 Current Focus
 
 - Strengthening networking knowledge (CompTIA Network+)
-- Building hands-on IT project experience
-- Preparing for entry-level IT and Help Desk roles
+- Building hands on IT project experience
+- Preparing for entry level IT and Help Desk roles
 
 ---
 ## 🔧 Technical Skills
