@@ -27,7 +27,7 @@ Simulated real-world IT support scenarios demonstrating structured troubleshooti
 
 I am an entry-level IT professional building hands-on experience in system administration, networking, and IT support.
 
-I have developed practical skills working with Active Directory, DNS, and troubleshooting real-world technical issues within a Windows Server environment.
+I have developed practical skills working with Active Directory, DNS, VPNs, and troubleshooting real world technical issues within a Windows Server environment.
 
 ## 🎯 Current Focus
 
