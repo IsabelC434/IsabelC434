@@ -19,6 +19,10 @@ Simulated real-world IT support scenarios demonstrating structured troubleshooti
 👉 [View](https://github.com/IsabelC434/it-support-troubleshooting)
 
 ---
+
+### 🔹 
+
+
 ## About Me
 
 I am an entry-level IT professional building hands-on experience in system administration, networking, and IT support.
