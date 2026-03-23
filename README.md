@@ -14,9 +14,8 @@ Configuration and analysis of DNS services, including record management and trou
 
 ---
 
-### 🔹 IT Support Troubleshooting & Incident Resolution Simulation  
-Simulated real-world IT support scenarios demonstrating structured troubleshooting and problem resolution.  
-👉 [View](https://github.com/IsabelC434/it-support-troubleshooting)
+### 🔹DHCP Behavior and IP Assignment Troubleshooting in a Windows Environment
+👉 [View](https://github.com/IsabelC434/DHCP-Configuration) 
 
 ---
 
