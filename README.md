@@ -2,7 +2,7 @@
 
 
 
-# IT Portfolio | Active Directory • Networking • Troubleshooting • VPN
+# IT Portfolio | Active Directory • Networking • Troubleshooting 
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
