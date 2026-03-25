@@ -78,7 +78,7 @@ I am currently preparing for entry level IT roles such as Help Desk/IT Support, 
 - Command Line Tools (ping, nslookup, ipconfig)
 - Remote Desktop (RDP)
 - Microsoft Azure Virtual Machines
-- DHCP (IP Assignment & Client-Side Troubleshooting) 
+- DHCP (IP Assignment & Client Side Troubleshooting) 
 
 ---
 
