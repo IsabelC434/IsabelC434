@@ -58,7 +58,6 @@ I am currently preparing for entry level IT roles such as Help Desk/IT Support, 
 ## What I'm Currently Learning
 - CompTIA Network+ (Networking Fundamentals, Troubleshooting, Security)
 - Network Infrastructure Concepts (IP addressing, routing, protocols)
-- Preparing for entry level IT and Help Desk roles
 
 ---
 
@@ -67,6 +66,7 @@ I am currently preparing for entry level IT roles such as Help Desk/IT Support, 
   - Apply technical troubleshooting skills in real world scenarios
   - Continue building experience with networking and system administration
   - Grow into more advanced roles in networking
+
 ---
 
 ## 🔧 Technical Skills
