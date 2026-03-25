@@ -1,3 +1,7 @@
+<p align="center"><img width="600" height="600" alt="READMEbanner" src="https://github.com/user-attachments/assets/de749786-e6d3-464b-ac48-ab0b139057e1" />
+
+
+
 # IT Portfolio | Active Directory • Networking • Troubleshooting • VPN
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
