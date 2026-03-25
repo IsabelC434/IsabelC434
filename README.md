@@ -6,48 +6,79 @@
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
 
-### 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
-Hands-on implementation of user account management and security policies using Group Policy in a Windows Server environment.  
+## 🔹 Enterprise Active Directory Account Management & Security Policy Enforcement  
+  - Created and managed user accounts within Active Directory
+  - Configured account lockout policies using Group Policy
+  - Simulated login failures and account lockout scenarios
+  - Performed password resets and account recovery
+
 👉 [View](https://github.com/IsabelC434/Active-Directory-Account-Management)
 
 ---
 
-### 🔹 DNS Configuration & Name Resolution Analysis in a Windows Server Environment  
-Configuration and analysis of DNS services, including record management and troubleshooting name resolution.  
+## 🔹 DNS Configuration & Name Resolution Analysis in a Windows Server Environment  
+  - Configured and analyzed DNS records (A-Records, CNAME)
+  - Validated name resolution using nslookup
+  - Observed DNS cache behavior and record propagation
+  - Troubleshoot resolution issues and incorrect configurations
+
 👉 [View](https://github.com/IsabelC434/dns-configuration-name-resolution-analysis)
 
 ---
 
-### 🔹DHCP Behavior and IP Assignment Troubleshooting in a Windows Environment
+## 🔹DHCP - IP Configuration & Troubleshooting (Azure Environment)
+  - Analyzed client IP assignment using DHCP in Azure
+  - Identified Azure managed DHCP server
+  - Validated network configuration using ipconfig /all
+  - Performed release and renew testing
+  - Investigated differences between cloud managed DHCP and on premises behavior
+
 👉 [View](https://github.com/IsabelC434/DHCP-Configuration) 
 
 ---
+## 🔹In Progress
+### VPN - Secure Remote Access (TBD) 
+  - Configure client to site VPN using RRAS
+  - Validate remote connectivity to internal network resources
+  - Test authentication and secure access
+  - Troubleshoot connectivity and routing issues 
+---
 
-### 🔹 Secure Remote Access Implementation Using Client to Site VPN
-👉 [View](https://github.com/IsabelC434/VPN-Implementation)
 
 ## About Me
 
-I am an entry-level IT professional building hands-on experience in system administration, networking, and IT support.
+I am an aspiring IT professional transitioning into the field with a focus on networking, system administration, and technical troubleshooting.
 
-I have developed practical skills working with Active Directory, DNS, VPNs, and troubleshooting real world technical issues within a Windows Server environment.
+Through hands on lab environments hosted in Microsoft Azure, I have built and analyzed core infrastructure services including Active Directory, DNS, and DHCP. My approach emphasizes not only implementation, but also understanding how systems behave under real world conditions and how to troubleshoot them effectively.
 
-## 🎯 Current Focus
+I am currently preparing for entry level IT roles such as Help Desk/IT Support, with long term goals in network engineering.
 
-- Strengthening networking knowledge (CompTIA Network+)
-- Building hands on IT project experience
+---
+
+## What I'm Currently Learning
+- CompTIA Network+ (Networking Fundamentals, Troubleshooting, Security)
+- Network Infrastructure Concepts (IP addressing, routing, protocols)
 - Preparing for entry level IT and Help Desk roles
 
 ---
+
+## Career Goals 
+#### I am seeking an entry level IT role where I can:
+  - Apply technical troubleshooting skills in real world scenarios
+  - Continue building experience with networking and system administration
+  - Grow into more advanced roles in networking
+---
+
 ## 🔧 Technical Skills
 
 - Active Directory (User Management, Account Lockouts, Group Policy)
-- DNS (A Records, CNAME, Name Resolution)
+- DNS (Name Resolution & Record Management)
 - Windows Server Administration
 - IT Troubleshooting & Incident Resolution
 - Command Line Tools (ping, nslookup, ipconfig)
 - Remote Desktop (RDP)
-- Microsoft Azure (Virtual Machine Hosting)
+- Microsoft Azure Virtual Machines
+- DHCP (IP Assignment & Client-Side Troubleshooting) 
 
 ---
 
