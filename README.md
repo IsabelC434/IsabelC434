@@ -58,7 +58,7 @@ I am currently preparing for entry level IT roles such as Help Desk/IT Support, 
 ## What I'm Currently Learning
 - CompTIA Network+ (Networking Fundamentals, Troubleshooting, Security)
 - Network Infrastructure Concepts (IP addressing, routing, protocols)
-
+- Google Technical Support Professional Certificate
 ---
 
 ## Career Goals 
